@@ -38,9 +38,9 @@
 >* 핵심 역할 : 데이터 관리, 회원가입 및 로그인, 이메일 인증를 하였습니다. <br>
 ><br>
 >
->  > * Language : Java 11
->  > * Skill : MySQL
->  >[프로젝트 상세설명]() <br>
+>* Language : Java 11 <br>
+>* Skill : MySQL <br>
+>[프로젝트 상세설명]() <br>
 
 
 
