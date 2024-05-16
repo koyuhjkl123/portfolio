@@ -50,7 +50,7 @@
 > * 핵심 역할 : DB 설계, 로그인 및 회원가입 <br>
 > <br>
 >
-
+>
 >* Language : Java 11 <br>
 >* Skill : Oracle, JSP <br>
 >[프로젝트 상세설명]() <br>
@@ -66,3 +66,14 @@
 > 
 >* Language : Java 11, Javascript <br>
 >* Skill : Sptring, Oracle, JSP <br>
+<br>
+<br>
+
+# 5. 러시아룰렛 게임
+> Java로 실탄과 공포탄 랜덤 총게임 <br>
+> * 개발 기간 : 2024-01-30 ~ 2024-02-05 <br>
+> * 핵심 역할 : DB를 활용한 로그인/회원가입, 인테페이스를 활용한 오버라이드, 이메일 인증
+> <br>
+>
+> * Language : Java 11
+> * Skill : MySQL
