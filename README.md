@@ -19,9 +19,9 @@
 
 1. Birdy Project
 >지식과 정보를 공유하는 조류 포털 Birdy <br>
-* 개발기간 : 2024-04-12 ~ 2024-05-08 <br>
-* 핵심 역할 : 팀장, 조류 공공데이터를 활용한 새의 통계 작성 및 그래프 시각화 <br>
-파이썬을 활용한 크롤링 하여 새의 뉴스(최신순, 과거순) 새의 과학 뉴스 페이징 처리 <br>
+>* 개발기간 : 2024-04-12 ~ 2024-05-08 <br>
+>* 핵심 역할 : 팀장, 조류 공공데이터를 활용한 새의 통계 작성 및 그래프 시각화 <br>
+>파이썬을 활용한 크롤링 하여 새의 뉴스(최신순, 과거순) 새의 과학 뉴스 페이징 처리 <br>
 >    >Back-end & Front-end <br>
 >    > * Language : Python, Java 11, Javascript <br>
 >    > * Skill : Spring Boot, Spring-framework, HTML, CSS, Boostrap, Thymeleaf, JPA <br>
