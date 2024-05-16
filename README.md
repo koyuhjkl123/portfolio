@@ -84,4 +84,4 @@
 
 # 📞 Contact
 >* 이메일 : koyuhjkl123@naver.com
->* 깃허브 : [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="40" height="40"/>]( https://github.com/orgs/community/discussions/124100)
+>* 깃허브 : [<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>]( https://github.com/orgs/community/discussions/124100)
