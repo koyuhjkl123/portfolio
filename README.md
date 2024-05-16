@@ -46,9 +46,9 @@
 
 # 3.![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/b5c1b1a8-4a58-4bc0-8cac-51d5e71cac92) 로그인/회원가입
 >JSP를 활용한 사원관리 프로그램 <br>
->* 개발기간 : 2024-02-12 ~ 2024-02-20 <br>
->* 핵심 역할 : DB 설계, 로그인 및 회원가입 <br>
-><br>
+> * 개발기간 : 2024-02-12 ~ 2024-02-20 <br>
+> * 핵심 역할 : DB 설계, 로그인 및 회원가입 <br>
+> <br>
 >
 
 >* Language : Java 11 <br>
