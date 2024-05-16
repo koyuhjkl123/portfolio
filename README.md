@@ -82,4 +82,4 @@
 
 # 📞 Contact
 >* 이메일 : koyuhjkl123@naver.com
->* 깃허브 : https://github.com/orgs/community/discussions/124100
+>* 깃허브 : ![GitHub]( https://github.com/orgs/community/discussions/124100)
