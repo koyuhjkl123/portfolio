@@ -66,6 +66,7 @@
 > 
 >* Language : Java 11, Javascript <br>
 >* Skill : Sptring, Oracle, JSP <br>
+> [프로젝트 상세설명]() <br>
 <br>
 <br>
 
@@ -77,9 +78,10 @@
 >
 > * Language : Java 11 <br>
 > * Skill : MySQL <br>
+> [프로젝트 상세설명]() <br>
 <br>
 <br>
 
 # 📞 Contact
 >* 이메일 : koyuhjkl123@naver.com
->* 깃허브 : ![GitHub]( https://github.com/orgs/community/discussions/124100)
+>* 깃허브 : ![<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" width="40" height="40"/>]( https://github.com/orgs/community/discussions/124100)
