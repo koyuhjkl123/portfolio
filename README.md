@@ -32,7 +32,8 @@
 <br>
 <br>
 
-# 2. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/46468e36-d971-4f14-b316-5e1ff7613092) 금융위원회_주식시세정보 <br>
+# 2.  금융위원회_주식시세정보 <br>
+<img src="![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/46468e36-d971-4f14-b316-5e1ff7613092)" width="200" height="400"/>
 >공공데이터를 활용한 CRUD <br>
 >* 개발기간 : 2024-01-17 ~ 2024-01-29 <br>
 >* 핵심 역할 : 데이터 관리, 회원가입 및 로그인, 이메일 인증를 하였습니다. <br>
