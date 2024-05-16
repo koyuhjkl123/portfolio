@@ -18,7 +18,9 @@
 <br>
 <br>
 
-# 1. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/4956f6c6-f49a-4f9b-a7c0-95ce6e4f72c0) Birdy
+# 1. <img src="https://github.com/koyuhjkl123/portfolio/assets/94844952/4956f6c6-f49a-4f9b-a7c0-95ce6e4f72c0" width="40" height="40"/> Birdy
+
+
 >지식과 정보를 공유하는 조류 포털 Birdy <br>
 >* 개발기간 : 2024-04-12 ~ 2024-05-08 <br>
 >* 핵심 역할 : 팀장, 조류 공공데이터를 활용한 새의 통계 작성 및 그래프 시각화 <br>
@@ -44,7 +46,8 @@
 <br>
 <br>
 
-# 3.![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/b5c1b1a8-4a58-4bc0-8cac-51d5e71cac92) 로그인/회원가입
+# 3.<img src="https://github.com/koyuhjkl123/portfolio/assets/94844952/b5c1b1a8-4a58-4bc0-8cac-51d5e71cac92" width="40" height="40"/> 로그인/회원가입
+
 >JSP를 활용한 사원관리 프로그램 <br>
 > * 개발기간 : 2024-02-12 ~ 2024-02-20 <br>
 > * 핵심 역할 : DB 설계, 로그인 및 회원가입 <br>
@@ -57,7 +60,7 @@
 <br>
 <br>
 
-# 4. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/42c3324c-69a1-477e-a6b9-ba68dd1f85fd) 사원 게시판 만들기
+# 4. <img src="https://github.com/koyuhjkl123/portfolio/assets/94844952/42c3324c-69a1-477e-a6b9-ba68dd1f85fd" width="40" height="40"/> 사원 게시판 만들기
 > Spring를 활용한 사원 일정 게시판 <br>
 > * 개발기간 : 2024-03-04 ~ 2024-03-15 <br>
 > * 핵심 역할 : 로그인/회원가입, CRUD(조회, 단일조회, 수정, 삭제), 날짜에 따른 우선순위 <br>
