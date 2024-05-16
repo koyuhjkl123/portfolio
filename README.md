@@ -57,7 +57,7 @@
 <br>
 <br>
 
-# 4. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/42c3324c-69a1-477e-a6b9-ba68dd1f85fd, width="40", heghit="40") 사원 게시판 만들기
+# 4. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/42c3324c-69a1-477e-a6b9-ba68dd1f85fd) 사원 게시판 만들기
 > Spring를 활용한 사원 일정 게시판 <br>
 > * 개발기간 : 2024-03-04 ~ 2024-03-15 <br>
 > * 핵심 역할 : 로그인/회원가입, CRUD(조회, 단일조회, 수정, 삭제), 날짜에 따른 우선순위 <br>
