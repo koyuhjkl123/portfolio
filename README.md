@@ -85,13 +85,13 @@
 <br>
 <br>
 
-# 6. ![image](https://github.com/koyuhjkl123/portfolio/assets/94844952/c4cd0790-9be9-4696-aaab-cab7a0eda186) 책 관리 프로그램
+# 6. <img src="https://github.com/koyuhjkl123/portfolio/assets/94844952/c4cd0790-9be9-4696-aaab-cab7a0eda186" width="40" height="40"/> 책 관리 프로그램
 > Java로 관리 시스템 만들기 <br>
 > * 개발 기간 : 2023-12-21 ~ 2023-12-28 <br>
 > * 핵심 역할 :
 > <br>
 >
-> * Language : Java 11
+> * Language : Java 11 <br>
 >   [프로젝트 상세설명]() <br>
 <br>
 <br>
