@@ -25,9 +25,9 @@
 >파이썬을 활용한 크롤링 하여 새의 뉴스(최신순, 과거순) 새의 과학 뉴스 페이징 처리 <br>
 ><br>
 >
->    >Back-end & Front-end <br>
->    > * Language : Python, Java 11, Javascript <br>
->    > * Skill : Spring Boot, Spring-framework, HTML, CSS, Boostrap, Thymeleaf, JPA, MySQL <br>
+>  Back-end & Front-end <br>
+> * Language : Python, Java 11, Javascript <br>
+> * Skill : Spring Boot, Spring-framework, HTML, CSS, Boostrap, Thymeleaf, JPA, MySQL <br>
 > [프로젝트 상세설명](https://github.com/koyuhjkl123/Project_Bridy) <br>
 <br>
 <br>
@@ -61,5 +61,6 @@
 > * 핵심 역할 : 로그인/회원가입, CRUD(조회, 단일조회, 수정, 삭제), 날짜에 따른 우선순위 <br>
 ><br>
 >
+> 
 >* Language : Java 11, Javascript <br>
 >* Skill : Sptring, Oracle, JSP <br>
