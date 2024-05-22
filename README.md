@@ -69,7 +69,7 @@
 >
 > * Language : Java 11 <br>
 > * Skill : MySQL <br>
-> [프로젝트 상세설명]() <br>
+> [프로젝트 상세설명](https://github.com/koyuhjkl123/RussianRoulette) <br>
 <br>
 <br>
 
@@ -81,7 +81,7 @@
 >
 >* Language : Java 11 <br>
 >* Skill : MySQL <br>
->[프로젝트 상세설명]() <br>
+>[프로젝트 상세설명](https://github.com/koyuhjkl123/stock-quotes) <br>
 <br>
 <br>
 
