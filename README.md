@@ -92,7 +92,7 @@
 > <br>
 >
 > * Language : Java 11 <br>
->   [프로젝트 상세설명]() <br>
+>   [프로젝트 상세설명](https://github.com/koyuhjkl123/Book-cafe) <br>
 <br>
 <br>
 
