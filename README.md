@@ -30,7 +30,7 @@
 >  Back-end & Front-end <br>
 > * Language : Python, Java 11, Javascript <br>
 > * Skill : Spring Boot, Spring-framework, HTML, CSS, Boostrap, Thymeleaf, JPA, MySQL <br>
-> [프로젝트 상세설명](https://github.com/koyuhjkl123/Project_Bridy) <br>
+> [프로젝트 상세설명](https://github.com/koyuhjkl123/Bridy) <br>
 <br>
 <br>
 
